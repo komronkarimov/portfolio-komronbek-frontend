@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\portfolio-komronbek",
+    "\\portfolio-komronbek\\backend\\src",
+    "\\portfolio-komronbek\\backend\\src\\config",
+    "\\portfolio-komronbek\\backend\\src\\middleware",
+    "\\portfolio-komronbek\\frontend",
+    "\\portfolio-komronbek\\frontend\\src",
+    "\\portfolio-komronbek\\frontend\\src\\styles",
+    "\\portfolio-komronbek\\frontend\\src\\types"
+  ],
+  "SelectedNode": "\\portfolio-komronbek\\frontend\\src\\vite-env.d.ts",
+  "PreviewInSolutionExplorer": false
+}
